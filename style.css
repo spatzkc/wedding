@@ -36,3 +36,14 @@ padding: 0px;
 overflow: hidden;
 background-color: gray;
 }
+
+/*Change color for active links and hovering over links*/
+li a:hover {
+background-color: #333;
+}
+
+.active {
+background-color: steelblue;
+}
+
+/*End code for nav menu*/
