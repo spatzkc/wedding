@@ -5,9 +5,34 @@ background-position: center center;
 background-size: 100%;
 /*background-attachment: fixed;*/
 font-size: 125px;
-font-family: Muli;
+font-family: 'Muli', sans-serif;
 color: lavenderblush;
 text-align: center;
 padding: 400px 0px 500px 0px;
+vertical-align: top;
+position: relative;
+top: -85px;
+}
 
+/*Navigation menu*/
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 20px 16px;
+text-decoration: none;
+}
+
+li {
+float: left;
+font-size: 30px;
+padding-left: 15px;
+}
+
+ul {
+list-style-type: none;
+margin: 0px;
+padding: 0px;
+overflow: hidden;
+background-color: gray;
 }
