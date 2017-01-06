@@ -1,0 +1,6 @@
+#date {
+background-image: url(http://res.cloudinary.com/dbdqs9zg2/image/upload/v1483726648/oneKnee_ame0qo.jpg);
+color: red;
+text-align: center;
+padding: 300px 0px
+}
