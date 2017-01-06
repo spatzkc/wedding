@@ -2,9 +2,12 @@
 background-image: url(http://res.cloudinary.com/dbdqs9zg2/image/upload/v1483726648/oneKnee_ame0qo.jpg);
 background-repeat: no-repeat;
 background-position: center center;
-background-size: 100%;
+background-size: fit;
+/*background-attachment: fixed;*/
 font-size: 125px;
 font-family: Muli;
 color: lavenderblush;
 text-align: center;
-padding: 500px 0px;
+padding: 400px 0px 500px 0px;
+
+}

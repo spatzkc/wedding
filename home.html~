@@ -7,6 +7,14 @@
 <title>Home | Kevin & Emily</title>
 </head>
 <body>
+<ul>
+  <a href="#"><li>Home</li></a>
+  <a href="#"><li>Location</li></a>
+  <a href="#"><li>Dress</li></a>
+  <a href="#"><li>Hotels</li></a>
+  <a href="#"><li>Registry</li></a>
+  <a href="#"><li>RSVP</li></a>
+</ul>
 <h1 id="date">08.05.17</h1>
 </body>
 </html>
