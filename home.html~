@@ -4,14 +4,14 @@
 <meta charset="utf-8" />
 <link href="/home/spatzkc/Documents/wedding_HTML/style.css" type="text/css" rel="stylesheet"/> 
 <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Architects+Daughter|Muli" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
 <title>Home | Kevin & Emily</title>
 </head>
 <body>
 <ul>
   <li class="active"><a href="/home/spatzkc/Documents/wedding_HTML/home.html">Home</a></li>
   <li><a href="/home/spatzkc/Documents/wedding_HTML/location.html">Location</a></li>
-  <li><a href="#">Dress</a></li>
+  <li><a href="#">Attire</a></li>
   <li><a href="#">Hotels</a></li>
   <li><a href="#">Registry</a></li>
   <li><a href="http://kevinandemilywedding.rsvpify.com" target="_blank">RSVP</a></li>
