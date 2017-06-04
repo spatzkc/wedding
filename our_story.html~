@@ -9,9 +9,9 @@
 </head>
 <body>
 <ul>
-  <li class="active"><a href="/home/spatzkc/Documents/wedding_HTML/home.html">Home</a></li>
-  <li><a href="#">Our Story</a></li>
-  <li><a href="/home/spatzkc/Documents/wedding_HTML/location.html">Details</a></li>
+  <li><a href="/home/spatzkc/Documents/wedding_HTML/home.html">Home</a></li>
+  <li class="active"><a href="#">Our Story</a></li>
+  <li><a href="/home/spatzkc/Documents/wedding_HTML/details.html">Details</a></li>
   <li><a href="#">Travel Info</a></li>
   <li><a href="#">Registry</a></li>
   <li><a href="http://kevinandemilywedding.rsvpify.com" target="_blank">RSVP</a></li>
