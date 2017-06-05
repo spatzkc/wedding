@@ -14,6 +14,13 @@ position: relative;
 top: -85px;
 }
 
+.our_story {
+margin-top: -20px;
+padding-bottom: 100px;
+background-clip: border-box;
+background-color: blanchedalmond;
+}
+
 .location_details {
 font-family: 'Kaushan Script', sans-serif;
 font-size: 32px;
