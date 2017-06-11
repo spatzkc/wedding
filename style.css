@@ -45,6 +45,14 @@ margin-right: 5%;
 color: lightskyblue;
 }
 
+.registries {
+margin-top: 0px;
+padding: 20px 20% 350px 20%;
+background-clip: border-box;
+background-color: blanchedalmond;
+font-family: 'El Messiri', sans-serif;
+font-size: 32px;
+}
 /*Navigation menu*/
 li a {
 display: block;

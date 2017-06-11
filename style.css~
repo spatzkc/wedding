@@ -37,14 +37,22 @@ margin-top: -130px;
 
 iframe {
 width: 80%;
-margin-left: 10%;
-margin-right: 10%;
+margin-left: 5%;
+margin-right: 5%;
 }
 
 .link {
 color: lightskyblue;
 }
 
+.registries {
+margin-top: 0px;
+padding: 20px 20% 350px 20%;
+background-clip: border-box;
+background-color: blanchedalmond;
+font-family: 'El Messiri', sans-serif;
+font-size: 32px;
+}
 /*Navigation menu*/
 li a {
 display: block;
