@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<link href="/home/spatzkc/Documents/wedding_HTML/style.css" type="text/css" rel="stylesheet"/> 
+<link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=El+Messiri" rel="stylesheet">
+<title>Location | Kevin & Emily</title>
+</head>
+<body>
+<ul>
+  <li><a href="/home/spatzkc/Documents/wedding_HTML/home.html">Home</a></li>
+  <li><a href="/home/spatzkc/Documents/wedding_HTML/our_story.html">Our Story</a></li>
+  <li><a href="/home/spatzkc/Documents/wedding_HTML/details.html">Details</a></li>
+  <li class="active"><a href="/home/spatzkc/Documents/wedding_HTML/travel_info.html">Travel Info</a></li>
+  <li><a href="#">Registry</a></li>
+  <li><a href="http://kevinandemilywedding.rsvpify.com" target="_blank">RSVP</a></li>
+  <li><a href="#">Photo Gallery</a></li>
+</ul>
+<div class="our_story">
+
+<h1>Ceremony</h1>
+<p>
+The First United Methodist Church is located at 1610 Prince St in Conway, Arkansas.
+</p>
+<iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3264.5850471377717!2d-92.4486775851744!3d35.09209938033585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87d2821a11580451%3A0x50784005864a3037!2sFirst+United+Methodist+Church!5e0!3m2!1sen!2sus!4v1497145637087" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+<h1>Reception</h1>
+<p>
+The reception will be located at 615 Davis St in Conway, Arkansas.
+</p>
+<iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3264.7819689618223!2d-92.45059588517464!3d35.08718008033717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87d28211a21040cb%3A0xc21fed00cdda0529!2s615+Davis+St%2C+Conway%2C+AR+72034!5e0!3m2!1sen!2sus!4v1497145542946" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+<h1>Lodging</h1>
+<p>
+We have a block of 20 rooms available for discounted price of $64 per night at the 
+<a href="https://www.wyndhamhotels.com/hojo/conway-arkansas/howard-johnson-inn-conway/overview?CID=LC:HJ::GGL:RIO:National:05084">Howard and Johnson Inn</a>.
+</p>
+
+</div>
+</body>
+</html>

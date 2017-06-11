@@ -15,10 +15,12 @@ top: -85px;
 }
 
 .our_story {
-margin-top: -20px;
-padding-bottom: 50px;
+margin-top: 0px;
+padding: 20px 20% 110px 20%;
 background-clip: border-box;
 background-color: blanchedalmond;
+font-family: 'El Messiri', sans-serif;
+font-size: 32px;
 }
 
 .location_details {
@@ -31,6 +33,12 @@ background-repeat: no-repeat;
 background-position: center center;
 background-size: 100%;
 margin-top: -130px;
+}
+
+iframe {
+width: 80%;
+margin-left: 10%;
+margin-right: 10%;
 }
 
 .link {
